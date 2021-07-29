@@ -24,5 +24,8 @@
       "LastName": "Jones",
       "Email": "fred.jones@test.com"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
