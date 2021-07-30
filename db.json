@@ -34,6 +34,13 @@
       "LastName": "Maxwell",
       "Email": "steve.maxwell@test.com",
       "RepId": "CA2C"
+    },
+    {
+      "id": 5,
+      "FirstName": "Bob",
+      "LastName": "Fitzsimmons",
+      "Email": "bob.fitzsimmons@test.com",
+      "RepId": "CA2D"
     }
   ],
   "profile": {
