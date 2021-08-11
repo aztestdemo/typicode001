@@ -105,7 +105,9 @@
       "RepId": "EFD5",
       "MasterRepId": "CA2D",
       "Type": "NLA"
-    },
+    }
+  ],
+  "swadmins": [
     {
       "id": 7,
       "status": "success",
