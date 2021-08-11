@@ -1,0 +1,113 @@
+{
+  "advisors": [
+    {
+      "id": 1,
+      "FirstName": "John",
+      "LastName": "Smith",
+      "Email": "john.smith@test.com",
+      "CWLogin": "john.smith",
+      "RepId": "TX2A"
+    },
+    {
+      "id": 2,
+      "FirstName": "Arnold",
+      "LastName": "Strong",
+      "Email": "arnold.strong@test.com",
+      "CWLogin": "arnold.strong",
+      "RepId": "TX2B"
+    },
+    {
+      "id": 3,
+      "FirstName": "George",
+      "LastName": "Thompson",
+      "Email": "george.thompson@test.com",
+      "CWLogin": "george.thompson",
+      "RepId": "CA2A"
+    },
+    {
+      "id": 4,
+      "FirstName": "Fred",
+      "LastName": "Jones",
+      "Email": "fred.jones@test.com",
+      "CWLogin": "fred.jones",
+      "RepId": "CA2B"
+    },
+    {
+      "id": 5,
+      "FirstName": "Steve",
+      "LastName": "Maxwell",
+      "Email": "steve.maxwell@test.com",
+      "CWLogin": "steve.maxwell",
+      "RepId": "CA2C"
+    },
+    {
+      "id": 6,
+      "FirstName": "Bob",
+      "LastName": "Fitzgerald",
+      "Email": "bob.fitzgerald@test.com",
+      "CWLogin": "bob.fitzgerald",
+      "RepId": "CA2D"
+    }
+  ],
+  "admins": [
+    {
+      "id": 1,
+      "FirstName": "Berkeley",
+      "LastName": " Harrison",
+      "Email": "berkeley.harrison@test.com",
+      "CWLogin": "berkeley.harrison",
+      "RepId": "790N",
+      "MasterRepId": "TX2A",
+      "Type": "LA"
+    },
+    {
+      "id": 2,
+      "FirstName": "Arnold",
+      "LastName": "Strong",
+      "Email": "arnold.strong@test.com",
+      "CWLogin": "berkeley.harrison",
+      "RepId": "777N",
+      "MasterRepId": "TX2B",
+      "Type": "LA"
+    },
+    {
+      "id": 3,
+      "FirstName": "George",
+      "LastName": "Thompson",
+      "Email": "george.thompson@test.com",
+      "RepId": "CD2D",
+      "MasterRepId": "CA2A",
+      "Type": "LA"
+    },
+    {
+      "id": 4,
+      "FirstName": "Fred",
+      "LastName": "Jones",
+      "Email": "fred.jones@test.com",
+      "RepId": "D5D5",
+      "MasterRepId": "CA2B",
+      "Type": "NLA"
+    },
+    {
+      "id": 5,
+      "FirstName": "Steve",
+      "LastName": "Maxwell",
+      "Email": "steve.maxwell@test.com",
+      "RepId": "D6D6",
+      "MasterRepId": "CA2C",
+      "Type": "NLA"
+    },
+    {
+      "id": 6,
+      "FirstName": "Bob",
+      "LastName": "Fitzgerald",
+      "Email": "bob.fitzgerald@test.com",
+      "RepId": "EFD5",
+      "MasterRepId": "CA2D",
+      "Type": "NLA"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
