@@ -52,16 +52,18 @@
   "admins": [
     {
       "id": 1,
-      "FirstName": "Berkeley",
+      "FullName": "Bob Harrison", 
+      "FirstName": "Bob",
       "LastName": " Harrison",
-      "Email": "berkeley.harrison@test.com",
-      "CWLogin": "berkeley.harrison",
+      "Email": "bob.harrison@test.com",
+      "CWLogin": "bob.harrison",
       "RepId": "790N",
       "MasterRepId": "TX2A",
       "Type": "LA"
     },
     {
       "id": 2,
+      "FullName": "Arnold Strong", 
       "FirstName": "Arnold",
       "LastName": "Strong",
       "Email": "arnold.strong@test.com",
@@ -72,6 +74,7 @@
     },
     {
       "id": 3,
+      "FullName": "George Thompson", 
       "FirstName": "George",
       "LastName": "Thompson",
       "Email": "george.thompson@test.com",
@@ -81,6 +84,7 @@
     },
     {
       "id": 4,
+      "FullName": "Fred Jones", 
       "FirstName": "Fred",
       "LastName": "Jones",
       "Email": "fred.jones@test.com",
@@ -90,6 +94,7 @@
     },
     {
       "id": 5,
+      "FullName": "Steve Maxwell", 
       "FirstName": "Steve",
       "LastName": "Maxwell",
       "Email": "steve.maxwell@test.com",
@@ -99,6 +104,7 @@
     },
     {
       "id": 6,
+      "FullName": "Bob Fitzgerald, 
       "FirstName": "Bob",
       "LastName": "Fitzgerald",
       "Email": "bob.fitzgerald@test.com",
