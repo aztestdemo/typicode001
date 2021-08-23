@@ -60,7 +60,7 @@
       "id": 1,
       "FullName": "Bob Harrison",
       "FirstName": "Bob",
-      "LastName": " Harrison",
+      "LastName": "Harrison",
       "Email": "bob.harrison@test.com",
       "CWLogin": "bob.harrison",
       "RepId": "790N",
@@ -73,7 +73,7 @@
       "FirstName": "Arnold",
       "LastName": "Strong",
       "Email": "arnold.strong@test.com",
-      "CWLogin": "berkeley.harrison",
+      "CWLogin": "arnold.strong",
       "RepId": "777N",
       "MasterRepId": "TX2B",
       "Type": "LA"
