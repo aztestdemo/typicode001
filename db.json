@@ -84,6 +84,7 @@
       "FirstName": "George",
       "LastName": "Thompson",
       "Email": "george.thompson@test.com",
+      "CWLogin": "george.thompson",
       "RepId": "CD2D",
       "MasterRepId": "CA2A",
       "Type": "LA"
@@ -94,6 +95,7 @@
       "FirstName": "Fred",
       "LastName": "Jones",
       "Email": "fred.jones@test.com",
+      "CWLogin": "fred.jones",
       "RepId": "D5D5",
       "MasterRepId": "CA2B",
       "Type": "NLA"
@@ -104,6 +106,7 @@
       "FirstName": "Steve",
       "LastName": "Maxwell",
       "Email": "steve.maxwell@test.com",
+      "CWLogin": "steve.maxwell",
       "RepId": "D6D6",
       "MasterRepId": "CA2C",
       "Type": "NLA"
@@ -114,6 +117,7 @@
       "FirstName": "Bob",
       "LastName": "Fitzgerald",
       "Email": "bob.fitzgerald@test.com",
+      "CWLogin": "bob.fitzgerald",
       "RepId": "EFD5",
       "MasterRepId": "CA2D",
       "Type": "NLA"
