@@ -66,7 +66,13 @@
       "CWLogin": "bob.harrison",
       "RepId": "790N",
       "MasterRepId": "TX2A",
-      "Type": "LA"
+      "Type": "LA", 
+      "Address1": "100 Main St",
+      "Address2": "Suite 100",
+      "City": "San Diego", 
+      "State": "CA", 
+      "Zip": "91001",
+      "ClubLevel": "Level 1"
     },
     {
       "id": 2,
@@ -78,7 +84,13 @@
       "CWLogin": "arnold.strong",
       "RepId": "777N",
       "MasterRepId": "TX2B",
-      "Type": "LA"
+      "Type": "LA", 
+      "Address1": "200 Main St",
+      "Address2": "Suite 200",
+      "City": "Los Angeles", 
+      "State": "CA", 
+      "Zip": "92002",
+      "ClubLevel": "Level 2"
     },
     {
       "id": 3,
@@ -90,7 +102,13 @@
       "CWLogin": "george.thompson",
       "RepId": "CD2D",
       "MasterRepId": "CA2A",
-      "Type": "LA"
+      "Type": "LA", 
+      "Address1": "200 Main St",
+      "Address2": "Suite 200",
+      "City": "Houston", 
+      "State": "TX", 
+      "Zip": "73003",
+      "ClubLevel": "Level 3"
     },
     {
       "id": 4,
@@ -102,7 +120,13 @@
       "CWLogin": "fred.jones",
       "RepId": "D5D5",
       "MasterRepId": "CA2B",
-      "Type": "NLA"
+      "Type": "NLA", 
+      "Address1": "400 Main St",
+      "Address2": "Suite 400",
+      "City": "Chicago", 
+      "State": "IL", 
+      "Zip": "64004",
+      "ClubLevel": null
     },
     {
       "id": 5,
@@ -114,7 +138,13 @@
       "CWLogin": "steve.maxwell",
       "RepId": "D6D6",
       "MasterRepId": "CA2C",
-      "Type": "NLA"
+      "Type": "NLA", 
+      "Address1": "500 Main St",
+      "Address2": "Suite 500",
+      "City": "Pittsburgh", 
+      "State": "PA", 
+      "Zip": "65005",
+      "ClubLevel": null
     },
     {
       "id": 6,
@@ -126,7 +156,13 @@
       "CWLogin": "bob.fitzgerald",
       "RepId": "EFD5",
       "MasterRepId": "CA2D",
-      "Type": "NLA"
+      "Type": "NLA", 
+      "Address1": "600 Main St",
+      "Address2": "Suite 600",
+      "City": "New York", 
+      "State": "NY", 
+      "Zip": "16006",
+      "ClubLevel": null
     }
   ],
   "swadmins": [
